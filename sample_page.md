@@ -13,4 +13,4 @@ I just finished taking a course on survival analysis, so I decided to revisit th
 
 <img src="images/Qac307RiddleTime.png?raw=true"/>
 
-If you want to learn more, [here is my code with some comments from my report for class](/pdf/QAC307Revisit.html), [here is the presentation I gave](/pdf/Final Presentation- Cimino.pdf), and [here is the updated version with the Cox PH models](/pdf/QAC307Cox.html).
+If you want to learn more, [here is my code with some comments from my report for class](/pdf/QAC307Revisit.html), [here is the presentation I gave](/pdf/FinalPresentation-Cimino.pdf), and [here is the updated version with the Cox PH models](/pdf/QAC307Cox.html).

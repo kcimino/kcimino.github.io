@@ -7,17 +7,15 @@
 [Survival Analysis Using Memes](/sample_page)
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Qac307Curves.png?raw=true"/>
 
 ---
 
 ### Sample Course Work and Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Exploratory Data Analysis Homework](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Survival Analysis Homework](/pdf/Homework3.html)
+- [Exploratory Data Analysis Homework](/pdf/HW2.html)
+
 
 ---
 

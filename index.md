@@ -2,12 +2,16 @@
 
 ---
 
-### Current and Recent Projects 
+### Current and Recent Projects
 
 [Survival Analysis Using Memes](/sample_page)
 
 
 <img src="images/Qac307Curves.png?raw=true"/>
+
+[Trying Plotly for Prometheus Discourse](/Discourse)
+
+<img src="images/plotly.png?raw=true"/>
 
 ---
 

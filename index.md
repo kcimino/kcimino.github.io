@@ -9,7 +9,7 @@
 
 <img src="images/Qac307Curves.png?raw=true"/>
 
-[Trying Plotly for Prometheus Discourse](/Discourse)
+[Trying Plotly for Prometheus Discourse](/DiscourseBlog)
 
 <img src="images/plotly.png?raw=true"/>
 

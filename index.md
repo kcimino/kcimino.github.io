@@ -19,6 +19,7 @@
 
 - [Survival Analysis Homework](/pdf/Homework3.html)
 - [Exploratory Data Analysis Homework](/pdf/HW2.html)
+- Applied Economics Final [Code](https://github.com/kcimino/AppliedEconomics/blob/main/Cleaned.R) [Paper](https://kcimino.github.io/AppliedEconomics/Cimino_Kathleen_Final_Econ300.pdf)
 
 
 ---
